@@ -19,9 +19,11 @@
 
 ### Stats
 <div align = "left">
-![Iqbaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbaaalll&show_icons=true&bg_color=00000000)
 <a href = "https://github.com/iqbaaalll">
-  <img height="180em" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqbaaalll&langs_count=8&layout=compact&theme=radical">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=iqbaaalll&show_icons=true&bg_color=00000000">
+</a>
+<a href = "https://github.com/iqbaaalll">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaaalll&hide_progress=true&bg_color=00000000">
 </a>
 </div>
 </br>
