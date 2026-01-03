@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Iqbal</h1>
 <h3 align="center">A full-stack development enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR4dWQyeTZpaDBuYjE4b28wdWZxYjFqZ2Z6bm9lYjh0NWEybGRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp"/>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbaaalll&label=Profile%20views&color=0e75b6&style=flat" alt="iqbaaalll" /> </p>
 
